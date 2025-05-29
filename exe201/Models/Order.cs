@@ -14,12 +14,19 @@ namespace exe201.Models
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
 
-        [MaxLength(50)]
-        public string Status { get; set; } = "Pending";
+        [Required]
+        [EnumDataType(typeof(UserRole))]
+        public string Status { get; set; } = OrderStatus.Pending.ToString();
 
         public User User { get; set; }
 
         public ICollection<OrderDetail> OrderDetails { get; set; }
     }
-
+    public enum OrderStatus
+    {
+        Pending,
+        Completed,
+        Shipping,
+        Cancelled
+    }
 }
