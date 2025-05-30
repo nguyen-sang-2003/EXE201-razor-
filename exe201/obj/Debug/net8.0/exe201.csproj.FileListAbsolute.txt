@@ -261,3 +261,5 @@ D:\GitHub\EXE201-razor-\exe201\obj\Debug\net8.0\refint\exe201.dll
 D:\GitHub\EXE201-razor-\exe201\obj\Debug\net8.0\exe201.pdb
 D:\GitHub\EXE201-razor-\exe201\obj\Debug\net8.0\exe201.genruntimeconfig.cache
 D:\GitHub\EXE201-razor-\exe201\obj\Debug\net8.0\ref\exe201.dll
+D:\GitHub\EXE201-razor-\exe201\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\GitHub\EXE201-razor-\exe201\bin\Debug\net8.0\bundleconfig.json
