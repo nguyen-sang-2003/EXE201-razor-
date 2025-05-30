@@ -28,3 +28,8 @@ obj/
 *.mdb
 *.bak
 *.tmp
+*.db
+.vs/exe201/CopilotIndices/17.12.38.29086/CodeChunks.db
+.vs/exe201/CopilotIndices/17.12.38.29086/SemanticSymbols.db
+*.db
+.vs/exe201/v17/.suo

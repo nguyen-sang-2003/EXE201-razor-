@@ -10,11 +10,11 @@ using exe201.Models;
 
 namespace exe201.Pages.Customer
 {
-    public class CustomerEditProfileModel : PageModel
+    public class CustomerEditModel : PageModel
     {
         private readonly exe201.Models.EcommerceContext _context;
 
-        public CustomerEditProfileModel(exe201.Models.EcommerceContext context)
+        public CustomerEditModel(exe201.Models.EcommerceContext context)
         {
             _context = context;
         }
@@ -26,7 +26,8 @@ namespace exe201.Pages.Customer
         {
             if (id == null)
             {
-                return NotFound();
+                UserProfile = new UserProfile();
+                return Page();
             }
 
             var userprofile =  await _context.UserProfiles.FirstOrDefaultAsync(m => m.UserId == id);
@@ -43,6 +44,11 @@ namespace exe201.Pages.Customer
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
+            if (!ModelState.IsValid)
+            {
+                return Page();
+            }
+
             _context.Attach(UserProfile).State = EntityState.Modified;
 
             try

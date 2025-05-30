@@ -28,8 +28,12 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/GitHub/EXE201-razor-/exe201/Pages/Customer/CustomerEditProfile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ3VzdG9tZXJFZGl0UHJvZmlsZS5jc2h0bWw=
+[D:/GitHub/EXE201-razor-/exe201/Pages/Customer/CustomerEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ3VzdG9tZXJFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/EXE201-razor-/exe201/Pages/Customer/CustomerProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ3VzdG9tZXJQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/EXE201-razor-/exe201/Pages/Error.cshtml]
@@ -46,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/GitHub/EXE201-razor-/exe201/Pages/Shared/StaffLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFN0YWZmTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/EXE201-razor-/exe201/Pages/Shared/_CustomerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9DdXN0b21lckxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/EXE201-razor-/exe201/Pages/Shared/_ValidationScriptsPartial.cshtml]
@@ -70,10 +78,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/GitHub/EXE201-razor-/exe201/Pages/Staff/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/EXE201-razor-/exe201/Pages/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/EXE201-razor-/exe201/Pages/_ViewImports.cshtml]

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\GitHub\\EXE201-razor-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|d:\\github\\exe201-razor-\\exe201\\pages\\customer\\customereditprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\customer\\customereditprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|d:\\github\\exe201-razor-\\exe201\\pages\\customer\\customerprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\customer\\customerprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|d:\\github\\exe201-razor-\\exe201\\pages\\customer\\customereditprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\customer\\customereditprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|d:\\github\\exe201-razor-\\exe201\\pages\\customer\\customeredit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\customer\\customeredit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|d:\\github\\exe201-razor-\\exe201\\pages\\customer\\customerprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\customer\\customerprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|d:\\github\\exe201-razor-\\exe201\\pages\\customer\\customeredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\customer\\customeredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|d:\\github\\exe201-razor-\\exe201\\pages\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerEditProfile.cshtml.cs",
-              "DocumentMoniker": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEditProfile.cshtml.cs",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Customer\\CustomerEditProfile.cshtml.cs",
-              "ToolTip": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEditProfile.cshtml.cs*",
-              "RelativeToolTip": "exe201\\Pages\\Customer\\CustomerEditProfile.cshtml.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Title": "CustomerProfile.cshtml.cs",
+              "DocumentMoniker": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Customer\\CustomerProfile.cshtml.cs",
+              "ToolTip": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerProfile.cshtml.cs",
+              "RelativeToolTip": "exe201\\Pages\\Customer\\CustomerProfile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:23:43.607Z",
+              "WhenOpened": "2025-05-30T06:13:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerProfile.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerProfile.cshtml",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Customer\\CustomerProfile.cshtml",
+              "ToolTip": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerProfile.cshtml",
+              "RelativeToolTip": "exe201\\Pages\\Customer\\CustomerProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T06:12:33.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerEditProfile.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEditProfile.cshtml",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Customer\\CustomerEditProfile.cshtml",
-              "ToolTip": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEditProfile.cshtml",
-              "RelativeToolTip": "exe201\\Pages\\Customer\\CustomerEditProfile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CustomerEdit.cshtml.cs",
+              "DocumentMoniker": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEdit.cshtml.cs",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Customer\\CustomerEdit.cshtml.cs",
+              "ToolTip": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEdit.cshtml.cs",
+              "RelativeToolTip": "exe201\\Pages\\Customer\\CustomerEdit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:47:53.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerEdit.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEdit.cshtml",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Customer\\CustomerEdit.cshtml",
+              "ToolTip": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Customer\\CustomerEdit.cshtml",
+              "RelativeToolTip": "exe201\\Pages\\Customer\\CustomerEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T04:23:43.563Z",
+              "WhenOpened": "2025-05-30T05:46:39.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_CustomerLayout.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Shared\\_CustomerLayout.cshtml",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Shared\\_CustomerLayout.cshtml",
+              "ToolTip": "D:\\GitHub\\EXE201-razor-\\exe201\\Pages\\Shared\\_CustomerLayout.cshtml",
+              "RelativeToolTip": "exe201\\Pages\\Shared\\_CustomerLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T05:45:48.544Z",
               "EditorCaption": ""
             }
           ]

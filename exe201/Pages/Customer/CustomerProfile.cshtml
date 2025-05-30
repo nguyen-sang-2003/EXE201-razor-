@@ -1,0 +1,25 @@
+﻿@page "{id:int}"
+@model exe201.Pages.Customer.CustomerProfileModel
+
+@{
+    ViewData["Title"] = "Customer Profile";
+    Layout = "_CustomerLayout";
+}
+
+<h2>Customer Profile</h2>
+
+@if (Model.Profile != null)
+{
+    <div class="card p-3 shadow-sm">
+        <p><strong>Full Name:</strong> @Model.Profile.FullName</p>
+        <p><strong>Address:</strong> @Model.Profile.Address</p>
+        <p><strong>Phone:</strong> @Model.Profile.Phone</p>
+        <p><strong>Email:</strong> @Model.Profile.Email</p>
+        <p><strong>Avatar:</strong></p>
+        <img src="@Model.Profile.AvatarUrl" alt="Avatar" width="150" height="150" />
+    </div>
+}
+else
+{
+    <p class="text-danger">Customer profile not found.</p>
+}
