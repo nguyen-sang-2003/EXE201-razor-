@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\exe201.kg9ryen8ub.bundle.scp.css"
     },
     {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",
+      "PackagePath": "staticwebassets\\css\\customeredit.css"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customerprofile.css",
+      "PackagePath": "staticwebassets\\css\\customerprofile.css"
+    },
+    {
       "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\staffcategory.css",
+      "PackagePath": "staticwebassets\\css\\staffcategory.css"
     },
     {
       "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\favicon.ico",

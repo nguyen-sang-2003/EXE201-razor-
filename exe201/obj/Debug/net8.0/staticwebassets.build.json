@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6rGSF1YG33TOuedwDlVF1RJYpdJugkhcSROb5LlQ2xE=",
+  "Hash": "Dbid/bz9iE22yp+MokViTNYMN7wU9EoVIGUbC1FFLN8=",
   "Source": "exe201",
   "BasePath": "_content/exe201",
   "Mode": "Default",
@@ -59,6 +59,48 @@
       "OriginalItemSpec": "D:\\GitHub\\EXE201-razor-\\exe201\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\exe201.bundle.scp.css"
     },
     {
+      "Identity": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",
+      "SourceId": "exe201",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\",
+      "BasePath": "_content/exe201",
+      "RelativePath": "css/customeredit#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ee4p5n1j1e",
+      "Integrity": "hpNNXtjPsGsXNntvlng2WoOo/2f+RgdOCctVeNegDco=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\customeredit.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customerprofile.css",
+      "SourceId": "exe201",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\",
+      "BasePath": "_content/exe201",
+      "RelativePath": "css/customerprofile#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vk6evwaftt",
+      "Integrity": "MYhpYatYuVS07UheBYgGonQP/ynuAEMKAmUAGwCSxHk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\customerprofile.css"
+    },
+    {
       "Identity": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\site.css",
       "SourceId": "exe201",
       "SourceType": "Discovered",
@@ -78,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\staffcategory.css",
+      "SourceId": "exe201",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\",
+      "BasePath": "_content/exe201",
+      "RelativePath": "css/staffcategory#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4twm3zqjun",
+      "Integrity": "aAG+HC0dhJCSzTMgSTK8+qX6rT77CvYPgdUehF75gvM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\staffcategory.css"
     },
     {
       "Identity": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\favicon.ico",
@@ -1405,6 +1468,170 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/customeredit.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpNNXtjPsGsXNntvlng2WoOo/2f+RgdOCctVeNegDco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:05:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpNNXtjPsGsXNntvlng2WoOo/2f+RgdOCctVeNegDco="
+        }
+      ]
+    },
+    {
+      "Route": "css/customeredit.ee4p5n1j1e.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpNNXtjPsGsXNntvlng2WoOo/2f+RgdOCctVeNegDco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:05:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ee4p5n1j1e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/customeredit.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpNNXtjPsGsXNntvlng2WoOo/2f+RgdOCctVeNegDco="
+        }
+      ]
+    },
+    {
+      "Route": "css/customerprofile.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customerprofile.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MYhpYatYuVS07UheBYgGonQP/ynuAEMKAmUAGwCSxHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 06:52:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MYhpYatYuVS07UheBYgGonQP/ynuAEMKAmUAGwCSxHk="
+        }
+      ]
+    },
+    {
+      "Route": "css/customerprofile.vk6evwaftt.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customerprofile.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MYhpYatYuVS07UheBYgGonQP/ynuAEMKAmUAGwCSxHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 06:52:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vk6evwaftt"
+        },
+        {
+          "Name": "label",
+          "Value": "css/customerprofile.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MYhpYatYuVS07UheBYgGonQP/ynuAEMKAmUAGwCSxHk="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1483,6 +1710,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "css/staffcategory.4twm3zqjun.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\staffcategory.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAG+HC0dhJCSzTMgSTK8+qX6rT77CvYPgdUehF75gvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:08:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4twm3zqjun"
+        },
+        {
+          "Name": "label",
+          "Value": "css/staffcategory.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAG+HC0dhJCSzTMgSTK8+qX6rT77CvYPgdUehF75gvM="
+        }
+      ]
+    },
+    {
+      "Route": "css/staffcategory.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\staffcategory.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAG+HC0dhJCSzTMgSTK8+qX6rT77CvYPgdUehF75gvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 07:08:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAG+HC0dhJCSzTMgSTK8+qX6rT77CvYPgdUehF75gvM="
         }
       ]
     },
