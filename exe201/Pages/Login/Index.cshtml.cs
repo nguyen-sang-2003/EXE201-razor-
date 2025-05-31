@@ -41,9 +41,13 @@ namespace exe201.Pages.Login
                 return Page();
             }
 
-            // TODO: Thiết lập session, cookie nếu cần
-            return RedirectToPage("Home/Index"); // Trang chuyển hướng sau khi đăng nhập
+            // Lưu thông tin user vào session (ví dụ lưu UserId và Username)
+            HttpContext.Session.SetInt32("UserId", user.Id);
+            HttpContext.Session.SetString("Username", user.Username ?? "");
+
+            return RedirectToPage("/Home/Index");
         }
+
 
         public class LoginInputModel
         {

@@ -3,56 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\filter.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\home\\filter.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\home\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\login\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\login\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\shared\\categorymenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\shared\\categorymenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\data\\exe201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\data\\exe201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\home\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\wwwroot\\images\\main1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\wwwroot\\images\\main1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|solutionrelative:exe201\\pages\\home\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6F5F808-18B0-4DFE-9658-62CF4A8D2639}|exe201\\exe201.csproj|c:\\users\\admin\\desktop\\exe\\exe201-razor-\\exe201\\pages\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,152 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Login\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Register.cshtml.cs",
-              "RelativeToolTip": "exe201\\Pages\\Login\\Register.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T11:29:13.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Register.cshtml",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Login\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Register.cshtml",
-              "RelativeToolTip": "exe201\\Pages\\Login\\Register.cshtml",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAUwHEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T11:28:01.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Models\\User.cs",
-              "RelativeDocumentMoniker": "exe201\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Models\\User.cs",
-              "RelativeToolTip": "exe201\\Models\\User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T11:08:16.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Login\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Index.cshtml.cs",
-              "RelativeToolTip": "exe201\\Pages\\Login\\Index.cshtml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T11:05:01.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Login\\Index.cshtml",
-              "RelativeToolTip": "exe201\\Pages\\Login\\Index.cshtml",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAUwHkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T11:05:01.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "exe201Context.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Data\\exe201Context.cs",
-              "RelativeDocumentMoniker": "exe201\\Data\\exe201Context.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Data\\exe201Context.cs",
-              "RelativeToolTip": "exe201\\Data\\exe201Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T10:53:28.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "main1.png -  [English (United States)] - PNG [1280x781, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\wwwroot\\images\\main1.png",
-              "RelativeDocumentMoniker": "exe201\\wwwroot\\images\\main1.png",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\wwwroot\\images\\main1.png -  [English (United States)] - PNG [1280x781, 32 bit, PNG]",
-              "RelativeToolTip": "exe201\\wwwroot\\images\\main1.png -  [English (United States)] - PNG [1280x781, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-05-29T10:44:40.397Z",
-              "EditorCaption": " -  [English (United States)] - PNG [1280x781, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\index.html",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\index.html",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\index.html",
-              "RelativeToolTip": "exe201\\Pages\\Home\\index.html",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAIwEwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-29T09:46:36.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Program.cs",
-              "RelativeDocumentMoniker": "exe201\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Program.cs",
-              "RelativeToolTip": "exe201\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:00:43.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EcommerceContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Models\\EcommerceContext.cs",
-              "RelativeDocumentMoniker": "exe201\\Models\\EcommerceContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Models\\EcommerceContext.cs",
-              "RelativeToolTip": "exe201\\Models\\EcommerceContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:55:56.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Index.cshtml.cs",
-              "RelativeToolTip": "exe201\\Pages\\Home\\Index.cshtml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:55:22.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "exe201\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -219,7 +70,99 @@
               "RelativeToolTip": "exe201\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T16:41:09.814Z"
+              "WhenOpened": "2025-05-31T11:49:38.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Shared\\CategoryMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Shared\\CategoryMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Shared\\CategoryMenuViewComponent.cs",
+              "RelativeToolTip": "exe201\\Pages\\Shared\\CategoryMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:46:12.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "exe201\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Models\\Product.cs",
+              "RelativeToolTip": "exe201\\Models\\Product.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:36:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\About.cshtml",
+              "RelativeToolTip": "exe201\\Pages\\Home\\About.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T11:32:05.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Index.cshtml.cs",
+              "RelativeToolTip": "exe201\\Pages\\Home\\Index.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:30:46.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filter.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Filter.cshtml.cs",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\Filter.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Filter.cshtml.cs",
+              "RelativeToolTip": "exe201\\Pages\\Home\\Filter.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:30:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetailsProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\DetailsProduct.cshtml",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\DetailsProduct.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\DetailsProduct.cshtml",
+              "RelativeToolTip": "exe201\\Pages\\Home\\DetailsProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T11:30:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Filter.cshtml",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\Filter.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Filter.cshtml",
+              "RelativeToolTip": "exe201\\Pages\\Home\\Filter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T11:27:37.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -229,9 +172,35 @@
               "RelativeDocumentMoniker": "exe201\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "exe201\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T16:30:33.445Z",
+              "WhenOpened": "2025-05-31T10:50:55.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Support.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Support.cshtml",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\Support.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Support.cshtml",
+              "RelativeToolTip": "exe201\\Pages\\Home\\Support.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T10:30:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\index.html",
+              "RelativeDocumentMoniker": "exe201\\Pages\\Home\\index.html",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\index.html",
+              "RelativeToolTip": "exe201\\Pages\\Home\\index.html",
+              "ViewState": "AgIAAH0EAAAAAAAAAAAAAJEEAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-31T10:29:03.51Z",
               "EditorCaption": ""
             },
             {
@@ -242,9 +211,9 @@
               "RelativeDocumentMoniker": "exe201\\Pages\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\EXE\\EXE201-razor-\\exe201\\Pages\\Home\\Index.cshtml",
               "RelativeToolTip": "exe201\\Pages\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAcwJgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T15:18:07.68Z",
+              "WhenOpened": "2025-05-30T14:48:26.915Z",
               "EditorCaption": ""
             }
           ]

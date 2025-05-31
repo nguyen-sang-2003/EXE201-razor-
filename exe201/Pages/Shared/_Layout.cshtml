@@ -1,4 +1,12 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+	var username = HttpContextAccessor.HttpContext.Session.GetString("Username");
+	bool isLoggedIn = !string.IsNullOrEmpty(username);
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>BookSaw - Free Book Store HTML CSS Template</title>
@@ -17,6 +25,41 @@
 	<link rel="stylesheet" href="~/style.css" asp-append-version="true" />
 
 	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap&subset=vietnamese" rel="stylesheet">
+	<style>
+		.user-account-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.account-dropdown {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 999;
+    top: 100%;
+    left: 0;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.account-dropdown a {
+    color: black;
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+}
+
+.account-dropdown a:hover {
+    background-color: #f1f1f1;
+}
+
+.user-account-wrapper:hover .account-dropdown {
+    display: block;
+}
+
+	</style>
 </head>
 
 <body>
@@ -46,28 +89,36 @@
 					</div>
 					<div class="col-md-6">
 						<div class="right-element">
-							<a href="#" class="user-account for-buy">
-								<i class="icon icon-user"></i><span>Tài Khoản</span>
-							</a>
+
+							<div class="user-account-wrapper">
+								@if (isLoggedIn)
+								{
+									<a href="#" class="user-account for-buy">
+										<i class="icon icon-user"></i><span>Hello @username</span>
+									</a>
+									<div class="account-dropdown">
+										<a href="/Login/Logout">Đăng xuất</a>  <!-- Nên có link đăng xuất -->
+									</div>
+								}
+								else
+								{
+									<a href="#" class="user-account for-buy">
+										<i class="icon icon-user"></i><span>Tài Khoản</span>
+									</a>
+									<div class="account-dropdown">
+										<a href="/Login/Index">Đăng nhập</a>
+										<a href="/Register/Index">Đăng ký</a>
+									</div>
+								}
+							</div>
+
 							<a href="#" class="cart for-buy">
 								<i class="icon icon-clipboard"></i><span>
-									Giỏ Hàng:(0
-									$)
+									Giỏ Hàng
 								</span>
 							</a>
 
-							<div class="action-menu">
-
-								<div class="search-bar">
-									<a href="#" class="search-button search-toggle" data-selector="#header-wrap">
-										<i class="icon icon-search"></i>
-									</a>
-									<form role="search" method="get" class="search-box">
-										<input class="search-field text search-input" placeholder="Search"
-											   type="search">
-									</form>
-								</div>
-							</div>
+						
 
 						</div><!--top-right-->
 					</div>
@@ -79,26 +130,26 @@
 		<header id="header">
 			<div class="container-fluid">
 				<div class="row">
-
 					<div class="col-md-2">
 						<div class="main-logo">
-							<a href="index.html"><img src="~/images/snapedit_1748515356828.png" alt="logo"></a>
+							<a href="/Home/Index"><img src="~/images/snapedit_1748515356828.png" alt="logo"></a>
 						</div>
 
 					</div>
 
+					
 					<div class="col-md-10">
 
 						<nav id="navbar">
 							<div class="main-menu stellarnav">
 								<ul class="menu-list">
-									<li class="menu-item active"><a href="#home">TRANG CHỦ</a></li>
+									<li class="menu-item active"><a href="#">TRANG CHỦ</a></li>
 									<li class="menu-item has-sub">	
 										<a href="#pages" class="nav-link">DANH MỤC</a>
 
 										<ul>
-											<li class="active"><a href="index.html">Trang Trí</a></li>
-											<li class="active"><a href="h.html">Gia Dụng</a></li>
+											<li class="active"><a href="/Home/Filter?id=1">Sản Phẩm Có Sẵn</a></li>
+											
 											
 
 										</ul>
@@ -106,7 +157,7 @@
 									</li>
 									<li class="menu-item"><a href="#featured-books" class="nav-link">CÂU CHUYỆN</a></li>
 									
-									<li class="menu-item"><a href="#popular-books" class="nav-link">VỀ ECOLOOM</a></li>
+									<li class="menu-item"><a href="/Home/About" class="nav-link">VỀ ECOLOOM</a></li>
 									<li class="menu-item"><a href="#popular-books" class="nav-link">HỖ TRỢ</a></li>
 
 								</ul>
