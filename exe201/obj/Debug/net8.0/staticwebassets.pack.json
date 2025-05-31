@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\exe201.kg9ryen8ub.bundle.scp.css"
     },
     {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\booksaw.css",
+      "PackagePath": "staticwebassets\\css\\booksaw.css"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",
+      "PackagePath": "staticwebassets\\css\\customeredit.css"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customerprofile.css",
+      "PackagePath": "staticwebassets\\css\\customerprofile.css"
+    },
+    {
       "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\staffcategory.css",
+      "PackagePath": "staticwebassets\\css\\staffcategory.css"
     },
     {
       "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\favicon.ico",
@@ -83,6 +99,22 @@
     {
       "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
       "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
