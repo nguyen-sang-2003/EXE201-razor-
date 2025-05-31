@@ -13,6 +13,12 @@
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.User.Profile.AvatarUrl)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Url.Content(Model.User.Profile.AvatarUrl)" alt="Avatar" style="max-height: 150px;" />
+        </dd>
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.User.Username)
         </dt>
         <dd class="col-sm-10">
