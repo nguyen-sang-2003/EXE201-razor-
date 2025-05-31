@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dbid/bz9iE22yp+MokViTNYMN7wU9EoVIGUbC1FFLN8=",
+  "Hash": "A/+Ji3VyubYf+6izg8qT0oQgF2XgPr78NEkdcawVYrs=",
   "Source": "exe201",
   "BasePath": "_content/exe201",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GitHub\\EXE201-razor-\\exe201\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\exe201.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\booksaw.css",
+      "SourceId": "exe201",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\",
+      "BasePath": "_content/exe201",
+      "RelativePath": "css/booksaw#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3j9xavxhtr",
+      "Integrity": "fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\booksaw.css"
     },
     {
       "Identity": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",
@@ -1467,6 +1488,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/booksaw.3j9xavxhtr.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\booksaw.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 03:30:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3j9xavxhtr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/booksaw.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE="
+        }
+      ]
+    },
+    {
+      "Route": "css/booksaw.css",
+      "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\booksaw.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 03:30:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE="
+        }
+      ]
+    },
     {
       "Route": "css/customeredit.css",
       "AssetFile": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",

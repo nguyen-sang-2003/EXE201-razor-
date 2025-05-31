@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/exe201/css/booksaw.3j9xavxhtr.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\booksaw.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3j9xavxhtr"},{"Name":"integrity","Value":"sha256-fyT\u002BDg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE="},{"Name":"label","Value":"_content/exe201/css/booksaw.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49106"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fyT\u002BDg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 03:30:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/exe201/css/booksaw.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\booksaw.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fyT\u002BDg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"49106"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fyT\u002BDg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 31 May 2025 03:30:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/exe201/css/customeredit.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\customeredit.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

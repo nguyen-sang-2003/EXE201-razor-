@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "css/booksaw.3j9xavxhtr.css",
+      "AssetFile": "css/booksaw.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 03:30:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3j9xavxhtr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE="
+        },
+        {
+          "Name": "label",
+          "Value": "css/booksaw.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/booksaw.css",
+      "AssetFile": "css/booksaw.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 03:30:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyT+Dg6jooUSMV0XflowDlLGp88pyhIqAegRb/wQ0jE="
+        }
+      ]
+    },
+    {
       "Route": "css/customeredit.css",
       "AssetFile": "css/customeredit.css",
       "Selectors": [],

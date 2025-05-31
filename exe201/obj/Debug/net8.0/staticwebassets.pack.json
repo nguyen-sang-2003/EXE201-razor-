@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\exe201.kg9ryen8ub.bundle.scp.css"
     },
     {
+      "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\booksaw.css",
+      "PackagePath": "staticwebassets\\css\\booksaw.css"
+    },
+    {
       "Id": "D:\\GitHub\\EXE201-razor-\\exe201\\wwwroot\\css\\customeredit.css",
       "PackagePath": "staticwebassets\\css\\customeredit.css"
     },
