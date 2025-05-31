@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Pages\Admin\" />
     <Folder Include="Pages\Customer\" />
     <Folder Include="Pages\Staff\" />
   </ItemGroup>
@@ -25,6 +26,8 @@
     <Content Update="wwwroot\assets\images\ecoloom_logo.png">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 

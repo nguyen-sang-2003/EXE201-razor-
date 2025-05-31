@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ky8\\EXE212\\exe201\\EXE201-razor-\\exe201\\exe201.csproj": {}
+    "D:\\GitHub\\EXE201-razor-\\exe201\\exe201.csproj": {}
   },
   "projects": {
-    "D:\\ky8\\EXE212\\exe201\\EXE201-razor-\\exe201\\exe201.csproj": {
+    "D:\\GitHub\\EXE201-razor-\\exe201\\exe201.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ky8\\EXE212\\exe201\\EXE201-razor-\\exe201\\exe201.csproj",
+        "projectUniqueName": "D:\\GitHub\\EXE201-razor-\\exe201\\exe201.csproj",
         "projectName": "exe201",
-        "projectPath": "D:\\ky8\\EXE212\\exe201\\EXE201-razor-\\exe201\\exe201.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\ky8\\EXE212\\exe201\\EXE201-razor-\\exe201\\obj\\",
+        "projectPath": "D:\\GitHub\\EXE201-razor-\\exe201\\exe201.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\EXE201-razor-\\exe201\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
